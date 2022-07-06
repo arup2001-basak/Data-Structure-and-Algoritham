@@ -1,4 +1,4 @@
-// Time complexity : 
+// Time complexity : O(m+n)
 // a problem taking two sorted arrays and printing the union of the two arrays.
 // Efficient Method.
 
